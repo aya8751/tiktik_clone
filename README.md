@@ -1,4 +1,4 @@
-## Tiktik - A TikTok Clone using Typescript, Next JS and Sanity
+## Tiktik - A TikTok Clone App
 
 It's a video social media platform that allows you to publish, comment, like videos and filter by categories.
 
